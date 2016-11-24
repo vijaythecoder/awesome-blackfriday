@@ -1,4 +1,4 @@
-# Awesome Black Friday
+# Awesome Black Friday (/Cyber Monday)
 
 A curated list of amazingly awesome technical Black Friday deals. Maintained by the awesome folk at [LaraChat](https://larachat.co) and [PHPUgly](https://phpugly.com/).
 
